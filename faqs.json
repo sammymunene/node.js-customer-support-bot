@@ -1,0 +1,14 @@
+[
+    {
+        "question": "What are your operating hours?",
+        "answer": "We are open from 9 AM to 5 PM, Monday to Friday."
+    },
+    {
+        "question": "How can I reset my password?",
+        "answer": "You can reset your password by clicking on 'Forgot Password' on the login page."
+    },
+    {
+        "question": "Where can I find your products?",
+        "answer": "You can find our products on our website and at various retail locations."
+    }
+]
